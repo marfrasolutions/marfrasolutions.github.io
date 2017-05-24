@@ -8045,7 +8045,7 @@ select.bs-select-hidden, select.selectpicker {
         padding-left: 46px
     }
     .navbar .navbar-collapse .open .dropdown-menu>li>a:focus, .navbar .navbar-collapse .open .dropdown-menu>li>a:hover {
-        color: #FFF
+        color: blue;
     }
     .navbar .navbar-collapse .dropdown.open .dropdown-menu {
         display: block
