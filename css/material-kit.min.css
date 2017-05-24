@@ -1943,7 +1943,7 @@ select.form-control {
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
     background-color: #EB7F00;
     color: #FFF;
-    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 13px 24px -11px rgba(156, 39, 176, .6)
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 13px 24px -11px rgba(197, 198, 178, .6)
 }
 
 .nav-pills:not(.nav-pills-icons)>li>a {
@@ -1975,7 +1975,7 @@ select.form-control {
 }
 
 .nav-pills.nav-pills-rose>li.active>a, .nav-pills.nav-pills-rose>li.active>a:focus, .nav-pills.nav-pills-rose>li.active>a:hover {
-    background-color: #79BD8F;
+    background-color: #4BB5C1;
     box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 13px 24px -11px rgba(0, 64, 77, 19, .6)
 }
 
