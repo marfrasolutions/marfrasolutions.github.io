@@ -5412,7 +5412,7 @@ select[data-dropdownjs][disabled]+.dropdownjs>input[readonly] {
 }
 
 [class*=features-], [class*=team-], [class*=projects-], [class*=pricing-], [class*=testimonials-], [class*=contactus-] {
-    padding: 80px 0
+    padding: 20px 0
 }
 
 .page-header {
